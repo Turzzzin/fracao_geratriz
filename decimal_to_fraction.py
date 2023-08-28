@@ -20,7 +20,7 @@ def decimal_to_fraction(decimal_str):
     simplified_numerator = numerator // divisor
     simplified_denominator = denominator // divisor
 
-    return f"A fração geratriz da dízima {decimal_str} é: {simplified_numerator}/{simplified_denominator}"
+    return f"fThe recurring fraction of the repeating decimal {decimal_str} is: {simplified_numerator}/{simplified_denominator}"
 
 # Recebe o input do usuário
 user_input = input("Digite uma dízima: ")

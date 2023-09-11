@@ -22,5 +22,7 @@ Este é um projeto em Python que recebe uma dízima periódica qualquer e retorn
     - Executar o programa!
 
 ## Como utilizar a partir do executável?
-- Basta abrir a pasta `dist`
+- Baixe o conteúdo do repositório
+  - Descompacte os arquivos
+- Abra a pasta `dist`
 - Executar o `decimal_to_fraction.exe`
